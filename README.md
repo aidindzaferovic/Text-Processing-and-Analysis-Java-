@@ -9,17 +9,17 @@ This project analyzes "Alice's Adventures in Wonderland" using Java. It performs
 
 ## 💡 **Key Features**
 
-**Tokenization & Stopword Removal**
-- Processes large text datasets by filtering out common stopwords using a HashSet for O(1) lookups.
+- **Tokenization & Stopword Removal**
+Processes large text datasets by filtering out common stopwords using a HashSet for O(1) lookups.
 
-**Word Frequency Analysis**
-- Uses a HashMap to count word occurrences efficiently, displaying results in descending order.
+- **Word Frequency Analysis**
+Uses a HashMap to count word occurrences efficiently, displaying results in descending order.
 
-**Dataset Insights**
-- Outputs the total number of tokens, unique words, stopwords, and punctuation marks.
+- **Dataset Insights**
+Outputs the total number of tokens, unique words, stopwords, and punctuation marks.
 
-**Optimized Performance**
-- Most operations run in O(n) or O(n log n) time, with preprocessing carefully designed to scale.
+- **Optimized Performance**
+Most operations run in O(n) or O(n log n) time, with preprocessing carefully designed to scale.
 
 ## 📊 **Output Snapshot**
 
