@@ -19,7 +19,7 @@ This project analyzes "Alice's Adventures in Wonderland" using Java. It performs
   Outputs the total number of tokens, unique words, stopwords, and punctuation marks.
 
 - **Optimized Performance**
-  Most operations run in O(n) or O(n log n) time, with preprocessing carefully designed to scale.
+     Most operations run in O(n) or O(n log n) time, with preprocessing carefully designed to scale.
 
 ## 📊 **Output Snapshot**
 
